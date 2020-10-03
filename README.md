@@ -2,7 +2,7 @@
 <ul>
   <li>🎓 I'm a final year student at Siddaganga Institute of Technology</li>
   <li>🤝🏻 I'm open for collaboration</li>
-  <li>🎯 Goal(2020): Be a machine learning hero</li>
+  <li>🎯 Goal: Be a machine learning hero</li>
   <li>⚡ Fun fact: I wake up at 5 am
   <li>📌 Scroll down to see my pinned repositories</li>
 </ul>
