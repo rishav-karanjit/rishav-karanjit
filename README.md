@@ -1,4 +1,4 @@
-### Hey! I am Rishav Karanjit | ऋषभ कारन्जित
+### Hey👋 I am Rishav Karanjit | ऋषभ कारन्जित
 <ul>
   <li>🎓 I'm a final year student at Siddaganga Institute of Technology</li>
   <li>🤝🏻 I'm open for collaboration</li>
