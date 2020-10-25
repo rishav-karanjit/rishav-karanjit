@@ -1,4 +1,4 @@
-### Hey👋 I am Rishav Karanjit | ऋषभ कारन्जित
+## Hey👋 I am Rishav Karanjit | ऋषभ कारन्जित
 <ul>
   <li>🎓 I'm a final year student at Siddaganga Institute of Technology</li>
   <li>🤝🏻 I'm open for collaboration</li>
@@ -6,6 +6,7 @@
   <li>⚡ Fun fact: I wake up at 5 am
   <li>📌 Scroll down to see my pinned repositories</li>
 </ul>
+
 ### Connect with me:
 
 [<img align="left" alt="karanjitrishav.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
