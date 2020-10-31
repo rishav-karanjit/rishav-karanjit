@@ -2,7 +2,7 @@
 <ul>
   <li>🎓 I'm a final year student at Siddaganga Institute of Technology</li>
   <li>🤝🏻 I'm open for collaboration</li>
-  <li>🎯 Current Goal: 365 days of coding from 13 September 2020 to 13 September 2021</li>
+  <li>🎯 Current Goal: 365 days of coding from September 13, 2020 to September 13, 2021</li>
   <li>⚡ Fun fact: I wake up at 5 am
   <li>📌 Scroll down to see my pinned repositories</li>
 </ul>
