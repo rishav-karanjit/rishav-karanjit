@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="karanjitrishav.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="RishavKaranjit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RishavKaranjit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="karanjitrishav.me"  src="https://img.shields.io/badge/karanjitrishav.me-%64BAFF.svg?&style=for-the-badge&logoColor=white" />][website]
+[<img align="left" alt="RishavKaranjit | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="RishavKaranjit | Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
                  
 
 [website]: http://karanjitrishav.me/
-[instagram]: https://www.instagram.com/rishav.karanjit/
+[gmail]: mailto:karanjitrishav4@gmail.com
 [linkedin]: https://www.linkedin.com/in/rishavkaranjit/
