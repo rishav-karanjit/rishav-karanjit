@@ -1,6 +1,6 @@
 ## Hey👋 I am Rishav Karanjit | ऋषभ कारन्जित
 <ul>
-  <li>🎓 I'm a final year student at Siddaganga Institute of Technology</li>
+  <li>🎓 I'm a final year CS student at Siddaganga Institute of Technology</li>
   <li>🤝🏻 I'm open for collaboration</li>
   <li>🎯 Current Goal: 365 days of coding</li>
   <li>⚡ Fun fact: I wake up at 5 am
