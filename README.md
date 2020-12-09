@@ -12,7 +12,7 @@
 [<img align="left" alt="karanjitrishav.me"  src="https://img.shields.io/badge/karanjitrishav.me-%64BAFF.svg?&style=for-the-badge&logoColor=white" />][website]
 [<img align="left" alt="RishavKaranjit | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="RishavKaranjit | Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-          
+[<img align="left" alt="RishavKaranjit | Gmail" src="https://img.shields.io/badge/UDEMY-%23EC5252.svg?&style=for-the-badge&logo=Udemy&logoColor=white " />][udemy]     
        
 [udemy]: https://www.udemy.com/user/rishav-karanjit/
 [website]: http://karanjitrishav.me/
