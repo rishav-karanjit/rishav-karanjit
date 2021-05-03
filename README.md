@@ -3,7 +3,6 @@
   <li>🎓 I'm a final year CS student at Siddaganga Institute of Technology</li>
   <li>🤝🏻 I'm open for collaboration</li>
   <li>🎯 Current Goal: 365 days of coding</li>
-  <li>⚡ Fun fact: I wake up at 5 am
   <li>📌 Scroll down to see my pinned repositories</li>
 </ul>
 
